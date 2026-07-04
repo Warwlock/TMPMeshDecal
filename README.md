@@ -25,6 +25,7 @@ How to Use
 
 1. Go to your **Text Mesh Pro** object.
 2. Add the component: `TMPDecalProjector`
+3. If you hover component values, you can see the documentation of each value.
 
 Limitations & Trade-offs
 --------
