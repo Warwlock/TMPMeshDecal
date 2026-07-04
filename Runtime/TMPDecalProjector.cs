@@ -47,7 +47,7 @@ namespace TMPMeshDecal
 
         void OnValidate()
         {
-            UpdateDecal();
+            needsUpdate = true;
         }
 
         private void OnTextChanged(Object obj)
