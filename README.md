@@ -39,14 +39,18 @@ Because this system uses **CPU-side vertex projection** instead of **GPU shaders
 
 Images
 --------
-- A stretched text.
+- A stretched text
+
 ![](https://raw.githubusercontent.com/Warwlock/TMPMeshDecal/refs/heads/main/Documentation~/Stretched.png)
 
 - Curved Surface example
+
 ![](https://raw.githubusercontent.com/Warwlock/TMPMeshDecal/refs/heads/main/Documentation%7E/CurvedSurface.png)
 
 - Works on URP Decal surfaces.
+
 ![](https://raw.githubusercontent.com/Warwlock/TMPMeshDecal/refs/heads/main/Documentation~/WorksWithDecal.png)
 
 - Submeshes also works!
+
 ![](https://raw.githubusercontent.com/Warwlock/TMPMeshDecal/refs/heads/main/Documentation~/SubMeshSupport.png)
