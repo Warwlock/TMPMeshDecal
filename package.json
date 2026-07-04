@@ -1,0 +1,19 @@
+{
+  "name": "com.warwlock.tmpmeshdecal",
+  "displayName": "TMP Mesh Decal Projector",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "A CPU-side vertex projection decal system for TextMeshPro.\nWraps 3D text onto meshes without shaders. Works on all render pipelines.",
+  "documentationUrl": "https://github.com/Warwlock/TMPMeshDecal/blob/main/README.md",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/Warwlock/TMPMeshDecal/blob/main/LICENSE",
+  "changelogUrl": "https://github.com/Warwlock/TMPMeshDecal/blob/main/CHANGELOG.md",
+  "author": "Warwlock",
+  "keywords": [
+    "unity",
+    "textmeshpro",
+    "decal",
+    "projection",
+    "vertex"
+  ]
+}
